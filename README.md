@@ -2,11 +2,11 @@
 # PX4 and ROS 2 setup
 # This repo is derived from the following repo of AYHAM ALHARBAT of University of SAXION https://github.com/SaxionMechatronics/px4_offboard_lowlevel/tree/main
 # Prerequisites 
-# Ubuntu 22.04
-# PX4
-# ROS2 HUMBLE
-# GAZEBO CLASSIC
-# Micro XRCE-DDS Agent & Client
+- Ubuntu 22.04
+- PX4
+- ROS2 HUMBLE
+- GAZEBO CLASSIC
+- Micro XRCE-DDS Agent & Client
 
 
 
