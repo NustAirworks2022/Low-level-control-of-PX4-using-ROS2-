@@ -1,5 +1,5 @@
 # Simulation Demo
-This file provides the steps needed to run the demo. The steps shown in ``instructions/setup.md`` must be completed first.
+This file provides the steps needed to run the demo. The steps shown in ``README.md`` must be completed first.
 
 > **WARNING:** This demo is not safe for use on real hardware, the circle trajector generator may cause agressive and unpredictable behavior upon takeoff.
 
